@@ -1,0 +1,22 @@
+{
+  "name": "02-challenge",
+  "version": "1.0.0",
+  "description": "# Unit 12 MySQL Homework: Employee Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Duc Dang",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "console.table": "^0.10.0",
+    "express": "^4.18.1",
+    "figleaf": "^1.0.0",
+    "inquirer": "^8.2.4",
+    "multiselect-prompt": "^0.3.2",
+    "mysql2": "^2.3.3"
+  }
+}
