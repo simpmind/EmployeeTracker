@@ -49,7 +49,7 @@ https://youtu.be/w7Li2g154Is
 
 
 ### Screenshot 1 - Home
-![Home Page](./assets/images/image.png)
+![Home Page](./assets/image.png)
 
 
 
