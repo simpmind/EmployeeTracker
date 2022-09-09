@@ -43,13 +43,13 @@ As a business owner
 I want to be able to view and manage the departments, roles, and employees to better manage the human capital.
 
 ### Video
-[![a video walkthrough of the Employee-Tracker](./assets/images/screenshot-home.png)](https://youtu.be/w7Li2g154Is "Employee-Tracker App")
+[![a video walkthrough of the Employee-Tracker](./Assets/image.png)](https://youtu.be/w7Li2g154Is "Employee-Tracker App")
 
 https://youtu.be/w7Li2g154Is
 
 
 ### Screenshot 1 - Home
-![Home Page](./assets/image.png)
+![Home Page](./Assets/image.png)
 
 
 
